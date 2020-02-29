@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 e091c21a675d82c50977e1547f54136c7e682a7a Stephen Kenney <steve.kenney@yubnob.com> 1543772335 -0600	commit (initial): initial push
+e091c21a675d82c50977e1547f54136c7e682a7a 834baef8bc1d8411e9ca648395c781fccd24a26d Stephen Kenney <steve.kenney@yubnob.com> 1545088823 -0600	commit: fixed print formatting
+834baef8bc1d8411e9ca648395c781fccd24a26d 5e20f9d0581ed1e930ea8e199e26caa633d642e2 Stephen Kenney <steve.kenney@yubnob.com> 1547000171 -0600	commit: CONVERSION nearly finished
+5e20f9d0581ed1e930ea8e199e26caa633d642e2 fdc4fa92cb09967439f2a712be18b47340ef02bd Stephen Kenney <steve.kenney@yubnob.com> 1549229419 -0600	commit: before certificate config
+fdc4fa92cb09967439f2a712be18b47340ef02bd c3a83ffd387ad2487db57f086c8d05e1b82fdb7a Stephen Kenney <steve.kenney@yubnob.com> 1549420821 -0600	commit: cert demo
+c3a83ffd387ad2487db57f086c8d05e1b82fdb7a 0391ac5e7ed0aea7a749ecf736b7ce4d5e5cf739 Stephen Kenney <steve.kenney@yubnob.com> 1550593182 -0600	commit: cert changes
+0391ac5e7ed0aea7a749ecf736b7ce4d5e5cf739 35e859b747b0ae3635a506c0d4423da4b8befb6f Stephen Kenney <steve.kenney@yubnob.com> 1551738599 -0600	commit: cert finalization
+35e859b747b0ae3635a506c0d4423da4b8befb6f 90a898fb427c364c0eba769a3acb8c554fa6ce28 Stephen Kenney <steve.kenney@yubnob.com> 1551924039 -0600	commit: working on new backup system in runBackUpBatches
+90a898fb427c364c0eba769a3acb8c554fa6ce28 46a20ae222bcf6e7c6ff4ac3197290591d098fae Stephen Kenney <steve.kenney@yubnob.com> 1553694319 -0500	commit: Attestation demo is complete
+46a20ae222bcf6e7c6ff4ac3197290591d098fae d65fc4b85c848316b2a99bae70f87637e073805e Stephen Kenney <steve.kenney@yubnob.com> 1559868103 -0500	commit: can check if checked - now need to verify if other is checked
+d65fc4b85c848316b2a99bae70f87637e073805e 05602255531f24889a1692d5d8053498425ffe54 Stephen Kenney <steve.kenney@yubnob.com> 1559932409 -0500	commit: concurrentCheck is working -
+05602255531f24889a1692d5d8053498425ffe54 da4e382300eac297a29bbf1d0f590912808910d0 Stephen Kenney <steve.kenney@yubnob.com> 1560173940 -0500	commit: working with new attestation form - needs major clean up
+da4e382300eac297a29bbf1d0f590912808910d0 b4e4f8b0a43727e879d07c0e3e36e56af798caa7 Stephen Kenney <steve.kenney@yubnob.com> 1560786949 -0500	commit: full attestation, new ac19 cert
+b4e4f8b0a43727e879d07c0e3e36e56af798caa7 a01c863515aee3152e4db795da70253b5481c389 Stephen Kenney <steve.kenney@yubnob.com> 1566166950 -0500	commit: small glitches from Conference
+a01c863515aee3152e4db795da70253b5481c389 9110e182741f05ca701d9ca7aed06c2ba72826a2 Stephen Kenney <steve.kenney@yubnob.com> 1582764641 -0600	commit: new cert
