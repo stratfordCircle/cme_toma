@@ -109,15 +109,21 @@ export class ConfDaysProcessesProvider {
 
 
 
+      console.log('****** RUN QUERY *******');
+      console.log('collection ' + this.collectionName);
+      console.log('conference Name ' + conferenceName);
+      console.log('aoa_number ' + this.currentUser);
 
-      let query = this._DB.collection(collectionName);
+      let query = this._DB.collection(this.collectionName);
       query = query.where("aoa_number", "==", this.currentUser);
       query = query.where("conference", "==", conferenceName);
-      query = query.where("approved", "==", "Yes");
+      query = query.where("approval", "==", "Yes");
       
       /* if(dayNum !== 22) { // DON'T USE THE DAY IF WE WANT ALL CONFERENCE RECORDS FOR THE USER
         query = query.where("conference_day", "==", dayNum);
       } */
+
+      // alert('this.currentUser ' + this.currentUser);
 
       query = query
         .get()
