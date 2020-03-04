@@ -722,13 +722,18 @@ export class CmeProcessesProvider {
 
             //console.log('clean? ', cleanDescription);
 
+
+            let cleanCreditType1 = element.credit_type1.replace(/\s+/g,'');
+            cleanCreditType1 = cleanCreditType1.replace(/,/g, '\, ');
+            // element.credit_type1 + ',' +
+
             fileText = fileText +
               formatted_ce_date + ',' +
               element.accreditor + ',' +
               element.session + ',' +
               element.other + ',' +
               '"' + cleanDescription + '"' + ',' +
-              element.credit_type1 + ',' +
+              '"' + cleanCreditType1 + '"' + ',' +
               element.hours1 + ',' +
               element.hours_approved1 + ',' +
               element.credit_type2 + ',' +
